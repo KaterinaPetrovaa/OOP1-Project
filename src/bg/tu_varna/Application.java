@@ -1,7 +1,7 @@
 package bg.tu_varna;
 
 public class Application {
-    static void main() {
+    static void main(String[] args) {
 
     }
 }
